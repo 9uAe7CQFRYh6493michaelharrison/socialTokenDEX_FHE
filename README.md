@@ -1,4 +1,4 @@
-```markdown
+
 # Social Token DEX: Empowering Anonymous Creators with Zama's FHE Technology
 
 Social Token DEX is a cutting-edge decentralized exchange tailored for trading FHE-encrypted social tokens issued by anonymous creators. Utilizing **Zama's Fully Homomorphic Encryption (FHE) technology**, this platform ensures both the privacy of the creators and their fans while facilitating seamless transactions on the blockchain. 
